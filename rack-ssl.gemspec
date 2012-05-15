@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
     'README.md'
   ]
 
-  s.add_dependency 'rack'
+  s.add_dependency 'rack', '1.4.0'
 
   s.authors           = ["Joshua Peek"]
   s.email             = "josh@joshpeek.com"
